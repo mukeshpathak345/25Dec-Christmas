@@ -1,0 +1,16 @@
+/* latin */
+@font-face {
+  font-family: 'IM Fell Double Pica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('IM FELL Double Pica Roman '), local('IM_FELL_Double_Pica_Roman'), url(http://fonts.gstatic.com/s/imfelldoublepica/v6/yN1wY_01BkQnO0LYAhXdUpPVtvXJHLEDVFcdPHS8c5s.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin */
+@font-face {
+  font-family: 'IM Fell Double Pica';
+  font-style: italic;
+  font-weight: 400;
+  src: local('IM FELL Double Pica Italic'), local('IM_FELL_Double_Pica_Italic'), url(http://fonts.gstatic.com/s/imfelldoublepica/v6/64odUh2hAw8D9dkFKTlWYoZew9IscTY2f2gOWZH7Ft0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
